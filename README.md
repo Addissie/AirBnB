@@ -153,9 +153,4 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Author
-Birhan Abuhay - [Github](https://github.com/TgGeda) / [Twitter](https://twitter.com/@AbuhayJemere)  
  
- 
-## License
-Public Domain. No copy write protection. 
